@@ -1,0 +1,25 @@
+{
+  "name": "task-dimitris-mantzekis",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test-unit": "jest ./test/unit.test.js",
+    "test-integration": "jest ./test/integation.test.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Dimitris Mantzekis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.2"
+  }
+}
