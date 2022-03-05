@@ -6,10 +6,9 @@ A RESTful API with an endpoint for transaction commission calculation.
 
 
 ## Installation
-- Unzip the DM_tryout_task.zip archive
-- Enter the DM_tryout_task directory
+- Enter the Commission-Calculator directory:
 ```
-  cd DM_tryout_task
+  cd Commission-Calculator
 ```
 - Install the necessary Node Modules
 
@@ -17,7 +16,7 @@ A RESTful API with an endpoint for transaction commission calculation.
   npm istall
 ```
 
-- Run the server
+- Run the server with the following command:
 
 ```
   npm run start
@@ -26,21 +25,21 @@ A RESTful API with an endpoint for transaction commission calculation.
 
 ## Running Tests
 
-To run all the tests, use the following command
+To run all the tests in the project, run the following command:
 
 ```
   npm run test
 ```
 
-To run the tests separately, use the following commands
+To run the tests separately, run the following commands
 
-- For Unit tests use:
+- For Unit tests run:
 
 ```
   npm run test-unit
 ```
 
-- For Integration tests use:
+- For Integration tests run:
 
 ```
   npm run test-integration
