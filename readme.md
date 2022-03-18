@@ -1,7 +1,5 @@
 
-# Tryout Task - Dimitris Mantzekis
-
-A RESTful API with an endpoint for transaction commission calculation.
+# A RESTful API with an endpoint for transaction commission calculation.
 
 
 
@@ -44,7 +42,3 @@ To run the tests separately, run the following commands
 ```
   npm run test-integration
 ```
-
-
-## Time
-The time it took to finish the task was 7 hours and 40 minutes.
